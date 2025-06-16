@@ -1,1 +1,9 @@
-Hi welcome
+how to connect github with vscode
+
+-> create repoistory 
+-> open vscode and click ctrl+shift+p
+-> type git:clone
+-> automatically detects the repoistory from github or go to github click code, under that copy https link and paste it in vscode. press enter
+-> choose a folder on your computer to save the project under other local drive, not in C drive
+-> github will be linked with the vscode
+-> the modified file will be seen in source control, stage it by clicking +, click commit and then click sync 
